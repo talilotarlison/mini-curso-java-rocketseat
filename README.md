@@ -36,11 +36,15 @@ Este mini curso tem como objetivo ensinar os conceitos básicos de programação
    - double
    - char
    - boolean
-3. Operadores
-4. Estruturas de Controle
+3. Tipos primitivos em java
+   - int , double, float, char , boolean , string, 
+   - byte , short, int , long
+
+4. Operadores
+5. Estruturas de Controle
    - Condicionais (if, else)
    - Laços de Repetição (for, while)
-5. Exercícios Práticos
+6. Exercícios Práticos
 
 ## Instalação
 
